@@ -1,3 +1,16 @@
 :root {
-    --bixal-orange: #fda305;
+    --bixal-orange: #FDA305;
+    --bixal-green: #DEEC1E;
+    --bixal-light-blue: #BEE9F6;
+    --bixal-teal: #06C5BC;
+    --bixal-red: #E02F00;
+    --bixal-maroon: #55052A;
+    --bixal-purple: #7D0096;
+    --bixal-navy: #172D6A;
+    --bixal-black: #000000;
+    --bixal-gray-dark: #333333;
+    --bixal-gray: #CCCCCC;
+    --bixal-gray-light: #E5E5E5;
+    --bixal-gray-lighter: #F2F2F2;
+    --bixal-white: #FFFFFF;
 }
