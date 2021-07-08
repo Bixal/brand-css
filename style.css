@@ -13,4 +13,6 @@
     --bixal-gray-light: #E5E5E5;
     --bixal-gray-lighter: #F2F2F2;
     --bixal-white: #FFFFFF;
+    --bixal-font-serif: "novel-pro", Georgia, Times, "Times New Roman", serif;
+    --bixal-font-sans-serif: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
