@@ -14,7 +14,7 @@ font-family: var(--bixal-font-sans-serif);
     background-color: var(--bixal-orange);
 }
 .border-bixal-orange {
-    background-color: var(--bixal-orange);
+    border-color: var(--bixal-orange);
 }
 .text-bixal-green {
     color: var(--bixal-green);
@@ -23,7 +23,7 @@ font-family: var(--bixal-font-sans-serif);
     background-color: var(--bixal-green);
 }
 .border-bixal-green {
-    background-color: var(--bixal-green);
+    border-color: var(--bixal-green);
 }
 .text-bixal-light-blue {
     color: var(--bixal-light-blue);
@@ -32,7 +32,7 @@ font-family: var(--bixal-font-sans-serif);
     background-color: var(--bixal-light-blue);
 }
 .border-bixal-light-blue {
-    background-color: var(--bixal-light-blue);
+    border-color: var(--bixal-light-blue);
 }
 .text-bixal-teal {
     color: var(--bixal-teal);
@@ -41,7 +41,7 @@ font-family: var(--bixal-font-sans-serif);
     background-color: var(--bixal-teal);
 }
 .border-bixal-teal {
-    background-color: var(--bixal-teal);
+    border-color: var(--bixal-teal);
 }
 .text-bixal-red {
     color: var(--bixal-red);
@@ -50,7 +50,7 @@ font-family: var(--bixal-font-sans-serif);
     background-color: var(--bixal-red);
 }
 .border-bixal-red {
-    background-color: var(--bixal-red);
+    border-color: var(--bixal-red);
 }
 .text-bixal-maroon {
     color: var(--bixal-maroon);
@@ -59,7 +59,7 @@ font-family: var(--bixal-font-sans-serif);
     background-color: var(--bixal-maroon);
 }
 .border-bixal-maroon {
-    background-color: var(--bixal-maroon);
+    border-color: var(--bixal-maroon);
 }
 .text-bixal-purple {
     color: var(--bixal-purple);
@@ -68,7 +68,7 @@ font-family: var(--bixal-font-sans-serif);
     background-color: var(--bixal-purple);
 }
 .border-bixal-purple {
-    background-color: var(--bixal-purple);
+    border-color: var(--bixal-purple);
 }
 .text-bixal-navy {
     color: var(--bixal-navy);
@@ -77,5 +77,5 @@ font-family: var(--bixal-font-sans-serif);
     background-color: var(--bixal-navy);
 }
 .border-bixal-navy {
-    background-color: var(--bixal-navy);
+    border-color: var(--bixal-navy);
 }
